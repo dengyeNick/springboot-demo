@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot_wechatPay
+    
+
+server:
+  port: 9093
+
+
